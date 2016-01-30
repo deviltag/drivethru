@@ -4,8 +4,8 @@
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-874">
 <title>Setting link api</title>
-<link rel="stylesheet" href="css/bootstrap.css" />
-<link rel="stylesheet" href="css/main.css" />
+<link rel="stylesheet" href="../../css/bootstrap.css" />
+<link rel="stylesheet" href="../../css/main.css" />
 </head>
 
 <body>
@@ -56,7 +56,7 @@ fclose($myfile4);
   <br class="clear">
 </FORM>
 </div>
-<div class="back"><a href="index_history.php" class="back"></a></div>
+<div class="back"><a href="../../index_history.php" class="back"></a></div>
 </body>
 
 </html>
