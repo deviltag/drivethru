@@ -7,8 +7,12 @@ world
 
 yesssssss !!!!
 
+<<<<<<< HEAD
 v.6
 
 
 
 hihi 
+=======
+v.8 lol 
+>>>>>>> tag
